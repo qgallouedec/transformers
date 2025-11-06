@@ -592,7 +592,7 @@ class TopHLogitsWarper(LogitsProcessor):
 
     Reference:
     For details, see *Top-H Decoding: Adapting the Creativity and Coherence with Bounded Entropy in Text Generation*
-    (NeurIPS 2025): https://arxiv.org/abs/2509.02510
+    (NeurIPS 2025): https://huggingface.co/papers/2509.02510
 
     Args:
         top_h (`float`):
